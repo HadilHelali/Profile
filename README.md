@@ -8,6 +8,10 @@
     <a href="https://www.figma.com/@hadil_helali">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   </a>
+    </a>
+    <a href="https://dribbble.com/HadilHelali">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribble Badge"/>
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" id="badges"/>
   </div>
