@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   </a>
     </a>
-    <a href="https://dribbble.com/HadilHelali">
+    <a href="https://dribbble.com/HadilHelali/about?utm_source=Clipboard_%22clipboard_about%22&utm_campaign=%22HadilHelali%22&utm_content=%22About%20HadilHelali%22&utm_medium=Social_Share">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribble Badge"/>
   </a>
 </div>
