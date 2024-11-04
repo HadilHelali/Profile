@@ -16,11 +16,11 @@
   
   ## :woman_technologist: About Me :
   
- - :telescope: I’m an Aspiring Software Engineer and contributing to frontend and backend for building web and mobile applications.
+ - :telescope: I’m an aspiring data engineer looking to enhance and elevate my technical and soft skills.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring technical content writing and scientific research papers.
 
-- :zap: In my free time, I learn about new technologies and create designs for mobile applications.
+- :zap: In my free time, I learn about new technologies and create designs.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
