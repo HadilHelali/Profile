@@ -16,7 +16,7 @@
   
   ## :woman_technologist: About Me :
   
- - :telescope: I’m an aspiring data engineer looking to enhance and elevate my technical and soft skills.
+ - :telescope: I’m an aspiring data engineer/data scientist looking to enhance and elevate my technical and soft skills.
 
 - :seedling: Exploring technical content writing and scientific research papers.
 
